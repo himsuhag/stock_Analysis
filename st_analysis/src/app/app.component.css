@@ -1,0 +1,55 @@
+.main{
+    height: auto;
+    width: 100%;
+    background-color: aqua;
+}
+#login {
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(211, 214, 211);
+    padding: 10px;
+    height: 650px;
+    width: 350px;
+    background-color: white;
+
+}
+p {
+     text-align : center;
+     font-size: 29px;
+}
+.but {
+    height: 33px;
+    width: 283px;
+    border-radius: 15px;
+    background-color: pink;
+    border: 0px;
+    margin: 10%;
+
+}
+.iconclass {
+    height: 12px;
+    width: 10px;
+
+
+}
+.inputbox{ 
+
+    border-bottom: 1px solid grey;
+    margin: 23px;
+    color:grey;
+}
+.noborder {
+    border: 0px;
+    color:grey;
+    
+}
+input[type=text]:focus {
+    outline:none;
+}
+input[type=password]:focus {
+    outline:none;
+}
+
+
+
+
